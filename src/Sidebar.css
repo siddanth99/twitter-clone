@@ -1,0 +1,18 @@
+.sidebar {
+  margin: 0 0 20px 0;
+  padding: 10px 20px 50px 20px;
+  border-style: ridge;
+  background-color: #adb6fa;
+  border-radius: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar :hover {
+ text-shadow: 2px 2px lightblue;
+}
+
+  .menu-item{
+    padding: 25px;
+    color:black;
+    text-decoration: none;
+  }
